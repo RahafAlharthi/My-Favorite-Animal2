@@ -1,0 +1,20 @@
+ 
+.facts{
+     font-style: italic; 
+}
+span {
+    font-weight: bold; 
+}
+img{
+    width: 300px;
+    height: 200px;
+    padding-bottom: 20px;
+}
+.informaion{
+  border-style: outset;  
+  padding: 20px;
+}
+body{
+    border-style:outset;
+    padding: 20px;
+}
